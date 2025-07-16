@@ -4,8 +4,14 @@
 
 - <b>Cybersecurity Home Lab</b>
   - [Building and Securing a Cybersecurity Home Lab](https://github.com/Paul5070/Cybersecurity-Home-Lab))
+    
 - <b>Security Information and Event Manager(SIEM)</b>
   - [Centralized Security Monitoring and Event Management](https://github.com/Paul5070/SIEM))
+    
+- <b>Multi Honeypot</b>
+  - [Deploying and Analyzing Multi-Honeypot Security Systems](https://github.com/Paul5070/Multi-Honeypot))
+
+- <b>PowerShell</b>
 
 
 <h2> 🤳 Connect with me:</h2>
