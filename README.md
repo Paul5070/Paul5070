@@ -9,11 +9,11 @@
 
 
 <h2> 🤳 Connect with me:</h2>
+<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
-[<img align="left" alt="paul-s77 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![LinkedIn](https://www.google.com/s2/favicons?domain=linkedin.com)LinkedIn](https://www.linkedin.com/in/paul-s77)
 
 
-[linkedin]: https://linkedin.com/in/paul-s77
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
