@@ -1,6 +1,6 @@
 <h1>Hi, I'm Paul! 
 
-<h2>👨‍💻 IT & Cybersecurity Projects:</h2>
+<h2> IT & Cybersecurity Projects:</h2>
 
 - <b>Cybersecurity Home Lab</b>
   - [Building and Securing a Cybersecurity Home Lab](https://github.com/Paul5070/Cybersecurity-Home-Lab))
@@ -15,7 +15,7 @@
   - [Automated AD Bulk User Creation (PowerShell)](https://github.com/Paul5070/AD_BulkUser_Creation))
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 <img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 [![LinkedIn](https://www.google.com/s2/favicons?domain=linkedin.com)LinkedIn](https://www.linkedin.com/in/paul-s77)
