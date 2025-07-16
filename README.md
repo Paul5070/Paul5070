@@ -12,6 +12,7 @@
   - [Deploying and Analyzing Multi-Honeypot Security Systems](https://github.com/Paul5070/Multi-Honeypot))
 
 - <b>PowerShell</b>
+  - [Automated AD Bulk User Creation (PowerShell)](https://github.com/Paul5070/AD_BulkUser_Creation))
 
 
 <h2> 🤳 Connect with me:</h2>
