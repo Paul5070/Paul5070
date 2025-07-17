@@ -13,6 +13,7 @@
 
 - <b>PowerShell</b>
   - [Automated AD Bulk User Creation (PowerShell)](https://github.com/Paul5070/AD_BulkUser_Creation))
+  - [Monitor and ensure file integrity (PowerShell)](https://github.com/Paul5070/FileIntegrityMonitor-FIM))
 
 
 <h2> Connect with me:</h2>
