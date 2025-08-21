@@ -14,6 +14,10 @@
 - <b>PowerShell</b>
   - [Automated AD Bulk User Creation (PowerShell)](https://github.com/Paul5070/AD_BulkUser_Creation))
   - [Monitor and ensure file integrity (PowerShell)](https://github.com/Paul5070/FileIntegrityMonitor-FIM))
+ 
+  - <b>Password Generator</b>
+   - [Created a Password Generator (Html,CSS, Java)] (https://bespoke-paprenjak-e13a64.netlify.app/)
+   - 
 
 
 <h2> Connect with me:</h2>
