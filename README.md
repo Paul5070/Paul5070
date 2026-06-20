@@ -1,4 +1,4 @@
-# Hi, I'm Paul Soto! 👋
+# Hi, I'm Paul Soto 
 
 **IT Support Specialist transitioning into Cybersecurity**  
 CompTIA Security+ | Associate of Science in Cybersecurity 
