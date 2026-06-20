@@ -1,42 +1,41 @@
-<h1>Hi, I'm Paul! 
+# Hi, I'm Paul Soto! 👋
 
-<h2> IT & Cybersecurity Projects:</h2>
+**IT Support Specialist transitioning into Cybersecurity**  
+CompTIA Security+ | Associate of Science in Cybersecurity | Hands-on Homelab Practitioner
 
-- <b>Cybersecurity Home Lab</b>
-  - [Building and Securing a Cybersecurity Home Lab](https://github.com/Paul5070/Cybersecurity-Home-Lab))
-    
-- <b>Security Information and Event Manager(SIEM)</b>
-  - [Centralized Security Monitoring and Event Management](https://github.com/Paul5070/SIEM))
-    
-- <b>Multi Honeypot</b>
-  - [Deploying and Analyzing Multi-Honeypot Security Systems](https://github.com/Paul5070/Multi-Honeypot))
+---
 
-- <b>PowerShell</b>
-  - [Automated AD Bulk User Creation (PowerShell)](https://github.com/Paul5070/AD_BulkUser_Creation))
-  - [Monitor and ensure file integrity (PowerShell)](https://github.com/Paul5070/FileIntegrityMonitor-FIM))
- 
-- <b>Password Generator</b>
-   - [Created a Password Generator (Html,CSS, Java)](https://bespoke-paprenjak-e13a64.netlify.app/))
+### 🛡️ Featured Cybersecurity Projects
 
+- **[Cybersecurity Home Lab](https://github.com/Paul5070/Cybersecurity-Home-Lab)**  
+  Built and secured a comprehensive home lab using Kali Linux, Metasploit, Nmap, and Splunk for detection.
 
-<h2> Connect with me:</h2>
-<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+- **[SIEM Honeynet Project](https://github.com/Paul5070/SIEM)**  
+  Deployed a Microsoft Sentinel honeynet in Azure, implemented hardening measures, and analyzed security events.
 
-[![LinkedIn](https://www.google.com/s2/favicons?domain=linkedin.com)LinkedIn](https://www.linkedin.com/in/paul-s77)
+- **[File Integrity Monitor (FIM)](https://github.com/Paul5070/FileIntegrityMonitor-FIM)**  
+  PowerShell-based tool to monitor and ensure file integrity on systems.
 
+- **[AD Bulk User Creation](https://github.com/Paul5070/AD_BulkUser_Creation)**  
+  Automated Active Directory user provisioning script — directly supporting my enterprise IT experience.
 
+- **[Multi-Honeypot](https://github.com/Paul5070/Multi-Honeypot)**  
+  Deployment and analysis of multiple honeypot security systems.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Technical Skills
+**Security & Monitoring**: Splunk, Microsoft Sentinel, MITRE ATT&CK, Endpoint Security, Phishing Analysis  
+**Identity & Automation**: Active Directory, PowerShell, DUO MFA, Mosyle MDM  
+**Tools**: Kali Linux, Metasploit, Nmap, Jira, KACE, EPIC EHR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect With Me
+- **LinkedIn**: [linkedin.com/in/paul-s77](https://www.linkedin.com/in/paul-s77/)  
+- **Email**: Pauln434@gmail.com  
+- **Portfolio**: [Add your portfolio link here once live]
+
+---
+
+*Actively seeking Junior SOC Analyst, Security Operations, or IT Security roles.*
