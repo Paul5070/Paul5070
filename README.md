@@ -1,7 +1,7 @@
 # Hi, I'm Paul Soto! 👋
 
 **IT Support Specialist transitioning into Cybersecurity**  
-CompTIA Security+ | Associate of Science in Cybersecurity | Hands-on Homelab Practitioner
+CompTIA Security+ | Associate of Science in Cybersecurity 
 
 ---
 
