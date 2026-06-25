@@ -34,7 +34,7 @@ CompTIA Security+ | Associate of Science in Cybersecurity
 ### 📫 Connect With Me
 - **LinkedIn**: [linkedin.com/in/paul-s77](https://www.linkedin.com/in/paul-s77/)  
 - **Email**: Pauln434@gmail.com  
-- **Portfolio**: [Add your portfolio link here once live]
+- **Portfolio**: https://github.com/Paul5070
 
 ---
 
