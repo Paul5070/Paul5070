@@ -38,4 +38,4 @@ CompTIA Security+ | Associate of Science in Cybersecurity
 
 ---
 
-*Actively seeking Junior SOC Analyst, Security Operations, or IT Security roles.*
+*Actively seeking Junior SOC Analyst, IAM Analyst, Security Operations, or IT Security roles.*
